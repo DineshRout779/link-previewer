@@ -19,7 +19,7 @@ body {
 
 h1 {
   text-align: center;
-  margin: 1em 0;
+  margin: 0.5em 0;
 }
 
 form {
@@ -97,7 +97,7 @@ form {
   background-color: rgb(87, 87, 226);
   padding: 0.5em 1em;
   display: block;
-  width: fit-content;
+  max-width: 200px;
   margin: 0 auto;
   margin-top: 1em;
   border-radius: 4px;
